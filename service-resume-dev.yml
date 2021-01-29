@@ -1,0 +1,4 @@
+cloud:
+  message: Hello world
+mysql:
+  url: dev-http://localhost:3306/db200
